@@ -1,5 +1,5 @@
 
-![ELECT from WORLD Tutorial](https://github.com/viktormark/Sql/assets/58149046/a532b322-371c-43e6-8fb2-92fabdaf455f) {width="1200px"}
+![ELECT from WORLD Tutorial](https://github.com/viktormark/Sql/assets/58149046/a532b322-371c-43e6-8fb2-92fabdaf455f) 
 
 ----------
 ![SELECT from Nobel Tutorial - SQLZoo](https://github.com/viktormark/Sql/assets/58149046/9acbb19a-f4e2-49cd-ba10-5759ab0c624a)
