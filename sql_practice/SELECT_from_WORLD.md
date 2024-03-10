@@ -11,6 +11,7 @@
 ![SUM_and_COUNT](https://github.com/viktormark/Sql/assets/58149046/c47dd205-7aac-485e-8f47-b9e40d387f3d)
 ----------
 
-![The JOIN operation](https://github.com/viktormark/Sql/assets/58149046/18c2a4c2-d959-4281-b5f7-03f52760551a)
+![The JOIN operation](https://github.com/viktormark/Sql/assets/58149046/a0766487-74b3-426d-b0b0-29a60cbdd020)
+
 
 
