@@ -65,8 +65,8 @@ __SELECT * FROM Orders__
 
 <br><br>
 
-__SELECT * FROM Persons
-JOIN Orders ON Persons.PersonID = Orders.PersonID;__ : Об'єднання даних з різних таблиць за певною умовою.
+**SELECT * FROM Persons  
+JOIN Orders ON Persons.PersonID = Orders.PersonID; :** Об'єднання даних з різних таблиць за певною умовою.
 
 |PersonID|FirstName|LastName|City|OrderID|Product|Quantity|
 |---|---|---|---|---|---|---|
@@ -77,8 +77,8 @@ JOIN Orders ON Persons.PersonID = Orders.PersonID;__ : Об'єднання да�
 
 <br><br>
 
-__SELECT * FROM Persons
-right join Orders ON Persons.PersonID = Orders.PersonID; :__ повертає всі рядки з правої таблиці та відповідні рядки з лівої таблиці. Якщо в ліві таблиці немає відповідності, записується NULL.
+**SELECT * FROM Persons  
+right join Orders ON Persons.PersonID = Orders.PersonID; :** повертає всі рядки з правої таблиці та відповідні рядки з лівої таблиці. Якщо в ліві таблиці немає відповідності, записується NULL.
 
 |PersonID|FirstName|LastName|City|OrderID|PersonID|Product|Quantity|
 |---|---|---|---|---|---|---|---|
