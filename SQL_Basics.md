@@ -16,7 +16,7 @@ __INSERT INTO Persons VALUES (1, 'vlad', 'lastname1', 'lviv'), (2, 'john', 'last
 
 <br><br>
 
-__SELECT * FROM table_name; :__ Вибрати всі колонкі з таблиці
+**SELECT * FROM table_name; :** Вибрати всі колонкі з таблиці
 
 | PersonID | FirstName | LastName  | City   |
 | -------- | --------- | --------- | ------ |
@@ -27,7 +27,7 @@ __SELECT * FROM table_name; :__ Вибрати всі колонкі з табл
 
  <br><br>
  
-__DELETE FROM Persons WHERE FirstName = "viktor"; :__  видаляє "viktor" з таблиці 
+**DELETE FROM Persons WHERE FirstName = "viktor"; :**  видаляє "viktor" з таблиці 
 
 |PersonID|FirstName|LastName|City|
 |---|---|---|---|
@@ -44,7 +44,9 @@ __UPDATE Persons SET FirstName = 'Jane' WHERE PersonID = 1; :__ Оновленн
 |1|Jane|lastname1|lviv|
 |2|john|lastname2|paris|
 |3|olga|lastname3|kyiv|
+
 <br><br>
+
 __ALTER TABLE table_name ADD column_name datatype; :__ Добавляє колонку в таблицю
 
 __ALTER TABLE table_name DROP COLUMN column_name; :__ Видаляє колонку
@@ -118,5 +120,5 @@ __select * from Orders LIMIT 3 :__ Обмеження кількості пов�
 
 <br><br>
 
-__select count( Quantity ) from Persons__ : рахує кількість рядків
-__select sum( Quantity ) from Persons__ : обчислить суму всіх значень у стовпці Quantity
+**select count( Quantity ) from Persons**: рахує кількість рядків
+**select sum( Quantity ) from Persons** : обчислить суму всіх значень у стовпці Quantity
