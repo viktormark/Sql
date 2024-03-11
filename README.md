@@ -5,6 +5,8 @@ __DROP DATABASE databasename; :__ Видалити базу даних.
 __SHOW DATABASES; :__ Показати список баз даних.
 __USE databasename; :__ Обрати базу даних для використання.
 
+
+
 __SHOW TABLES :__ показати таблиці
 
 __CREATE TABLE Persons (PersonID int, FirstName varchar(255) ,LastName varchar(255),City varchar(255));__ : Створити таблицю
