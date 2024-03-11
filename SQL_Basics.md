@@ -120,5 +120,6 @@ __select * from Orders LIMIT 3 :__ Обмеження кількості пов�
 
 <br><br>
 
-**select count( Quantity ) from Persons**: рахує кількість рядків
+**select count( Quantity ) from Persons**: рахує кількість рядків  
+
 **select sum( Quantity ) from Persons** : обчислить суму всіх значень у стовпці Quantity
